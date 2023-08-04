@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background-image: url(./assets/cal.jpg);
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  background-blend-mode:saturation;
+  
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(8px + 2vmin);
+  color: white;
+}
